@@ -82,7 +82,7 @@ market data and predicting market trends.
 
 **Technologies:** Python · Pandas · NumPy · Scikit-learn
 
-🔗 [View Repository](YOUR_LINK)
+🔗 [View Repository](https://github.com/vishnukp08/Crypto-Market-Tend-Prediction.git)
 
 ---
 
