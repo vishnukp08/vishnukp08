@@ -52,37 +52,7 @@ hands-on projects.
 
 ### 📊 Data & Machine Learning
 
-<p>
-  <a href="https://pandas.pydata.org/docs/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"
-         width="50"
-         alt="Pandas"/>
-  </a>
-
-  <a href="https://numpy.org/learn/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=numpy"
-         width="50"
-         alt="NumPy"/>
-  </a>
-
-  <a href="https://scikit-learn.org/stable/getting_started.html" target="_blank">
-    <img src="https://skillicons.dev/icons?i=sklearn"
-         width="50"
-         alt="Scikit-learn"/>
-  </a>
-
-  <a href="https://matplotlib.org/stable/tutorials/index.html" target="_blank">
-    <img src="https://skillicons.dev/icons?i=matplotlib"
-         width="50"
-         alt="Matplotlib"/>
-  </a>
-
-  <a href="https://seaborn.pydata.org/tutorial.html" target="_blank">
-    <img src="https://skillicons.dev/icons?i=seaborn"
-         width="50"
-         alt="Seaborn"/>
-  </a>
-</p>
+<p align="left"> <a href="https://pandas.pydata.org/docs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50" alt="Pandas" title="Pandas"/> </a> <a href="https://numpy.org/learn/" target="_blank"> <img src="https://skillicons.dev/icons?i=numpy" width="50" alt="NumPy" title="NumPy"/> </a> <a href="https://scikit-learn.org/stable/getting_started.html" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="50" alt="Scikit-learn" title="Scikit-learn"/> </a> <a href="https://matplotlib.org/stable/tutorials/index.html" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="50" alt="Matplotlib" title="Matplotlib"/> </a> <a href="https://seaborn.pydata.org/tutorial.html" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/seaborn/seaborn-original.svg" width="50" alt="Seaborn" title="Seaborn"/> </a> </p>
 
 ### ⚙️ Backend
 
