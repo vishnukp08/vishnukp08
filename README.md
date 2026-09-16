@@ -208,12 +208,12 @@ Python Django HTML CSS JavaScript SQLite Git GitHub
 
 ## 🌱 Currently Learning
 
-🤖 Generative AI
-🧠 Machine Learning
-📊 Advanced Data Analytics
-🐍 Advanced Python
-🌐 Backend Development
-🔌 REST API Development
+  🤖 Generative AI
+  🧠 Machine Learning
+  📊 Advanced Data Analytics
+  🐍 Advanced Python
+  🌐 Backend Development
+  🔌 REST API Development
 ---
 <!--
  ## 📊 GitHub Stats
@@ -233,10 +233,10 @@ Python Django HTML CSS JavaScript SQLite Git GitHub
 
 ---
 -->
-## 📫 Let's Connect
+<!--## 📫 Let's Connect
 
 <p align="left"> <a href="https://github.com/vishnukp08"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> <a href="https://www.linkedin.com/in/vishnukp08/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> </p>
 
 ---
-
+-->
 ⭐ Feel free to explore my repositories and projects.
