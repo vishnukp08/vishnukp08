@@ -137,7 +137,7 @@ Python · Django · HTML · CSS · JavaScript · SQLite · Git · GitHub
 🔗 [View Repository](https://github.com/vishnukp08/Goodbuddies-Socialmedia)
 
 ---
-
+<!--
  ## 📊 GitHub Stats
 
 <p align="center">
@@ -152,7 +152,7 @@ Python · Django · HTML · CSS · JavaScript · SQLite · Git · GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnukp08&layout=compact&theme=dark" alt="Top Languages" />
 </p>
-
+-->
 ---
 
 ⭐ Feel free to explore my repositories and projects.
