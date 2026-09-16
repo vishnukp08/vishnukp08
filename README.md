@@ -87,14 +87,14 @@ market data and predicting market trends.
 ---
 
 
-### 🍔 Bite Buddy
+### 🍔 College Canteen Food Ordering System
 
 A college canteen food ordering system designed to simplify
 food ordering and management.
 
 **Focus:** Web Development · Backend · Database
 
-🔗 [View Repository](https://github.com/vishnukp08/Crypto-Market-Tend-Prediction)
+🔗 [View Repository](https://github.com/vishnukp08/BiteBuddy-College_Canteen.git)
 
 ---
 
