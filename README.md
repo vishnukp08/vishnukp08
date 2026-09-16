@@ -72,8 +72,7 @@ hands-on projects.
   </a> 
   <a href="https://seaborn.pydata.org/tutorial.html" target="_blank">
   <img
-    src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/seaborn/seaborn-original.svg"
-    width="50"
+    src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"
     alt="Seaborn"
     title="Seaborn"
   />
