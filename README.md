@@ -39,8 +39,8 @@ hands-on projects.
 ### 💻 Languages
 
 <p>
-  <a href="https://www.python.org/about/gettingstarted/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=python" width="50" alt="Python"/>
+  <a href="https://docs.python.org/3/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" width="50" alt="Python 3"/>
   </a>
   <a href="https://dev.java/learn/" target="_blank">
     <img src="https://skillicons.dev/icons?i=java" width="50" alt="Java"/>
