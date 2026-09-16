@@ -53,22 +53,34 @@ hands-on projects.
 ### 📊 Data & Machine Learning
 
 <p>
- <a href="https://pandas.pydata.org/docs/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"
-       width="50"
-       alt="Pandas"/>
-</a>
+  <a href="https://pandas.pydata.org/docs/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"
+         width="50"
+         alt="Pandas"/>
+  </a>
+
   <a href="https://numpy.org/learn/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=numpy" width="50" alt="NumPy"/>
+    <img src="https://skillicons.dev/icons?i=numpy"
+         width="50"
+         alt="NumPy"/>
   </a>
+
   <a href="https://scikit-learn.org/stable/getting_started.html" target="_blank">
-    <img src="https://skillicons.dev/icons?i=sklearn" width="50" alt="Scikit-learn"/>
+    <img src="https://skillicons.dev/icons?i=sklearn"
+         width="50"
+         alt="Scikit-learn"/>
   </a>
+
   <a href="https://matplotlib.org/stable/tutorials/index.html" target="_blank">
-    <img src="https://skillicons.dev/icons?i=matplotlib" width="50" alt="Matplotlib"/>
+    <img src="https://skillicons.dev/icons?i=matplotlib"
+         width="50"
+         alt="Matplotlib"/>
   </a>
+
   <a href="https://seaborn.pydata.org/tutorial.html" target="_blank">
-    <img src="https://skillicons.dev/icons?i=seaborn" width="50" alt="Seaborn"/>
+    <img src="https://skillicons.dev/icons?i=seaborn"
+         width="50"
+         alt="Seaborn"/>
   </a>
 </p>
 
