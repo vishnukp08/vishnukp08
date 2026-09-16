@@ -28,3 +28,32 @@ through hands-on projects.
 - 🗄️ Working with SQL and databases
 - 🚀 Interested in building practical, real-world applications
 - 📚 Continuously learning and improving through projects
+
+## 🛠️ Tech Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js" />
+</p>
+
+### Data & Machine Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+`Pandas` · `NumPy` · `Scikit-learn` · `Matplotlib` · `Seaborn`
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=django,nodejs,express" />
+</p>
+
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
