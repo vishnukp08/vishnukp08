@@ -102,7 +102,7 @@ food ordering and management.
 
 A full-stack social media platform developed to enable users to connect, share content, and interact through a web-based application.
 
-🔗 [View Repository]()
+🔗 [View Repository](https://github.com/vishnukp08/Goodbuddies-Socialmedia)
 
 ---
 
