@@ -1,16 +1,21 @@
 # Hi, I'm Vishnu K P 👋
 
-### Computer Science Graduate | Python | Data Analytics | Machine Learning
+### Computer Science Graduate | Python Developer | Data Analytics & Machine Learning
 
-I enjoy building practical software and data-driven solutions using
-Python, SQL, Machine Learning, and AI technologies.
+I enjoy building practical software and data-driven solutions using Python, SQL, Machine Learning, and modern web technologies.
 
-I'm interested in Data Analytics, Machine Learning, Generative AI,
-and backend development, and I continuously improve my skills through
-hands-on projects.
+I'm particularly interested in Data Analytics, Machine Learning, Generative AI, and Backend Development, and I continuously improve my skills by building real-world projects.
 
 ---
-
+<p align="left"> 
+  <a href="https://github.com/vishnukp08"> 
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> 
+  </a> 
+  <a href="https://www.linkedin.com/in/vishnukp08/"> 
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> 
+  </a> 
+</p>
+<!--
 <p align="center">
   <a href="https://www.linkedin.com/in/vishnukp08">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
@@ -19,6 +24,7 @@ hands-on projects.
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
   </a>
 </p>
+-->
 
 ---
 
