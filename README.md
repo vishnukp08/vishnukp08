@@ -17,3 +17,14 @@ through hands-on projects.
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
   </a>
 </p>
+
+## 👨‍💻 About Me
+
+- 🎓 Computer Science graduate
+- 🐍 Interested in Python development and backend technologies
+- 📊 Interested in Data Analytics and Data Science
+- 🤖 Building projects using Machine Learning and AI
+- 🧠 Exploring Generative AI and modern AI applications
+- 🗄️ Working with SQL and databases
+- 🚀 Interested in building practical, real-world applications
+- 📚 Continuously learning and improving through projects
