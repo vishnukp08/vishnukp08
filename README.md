@@ -86,26 +86,6 @@ market data and predicting market trends.
 
 ---
 
-### 📊 Customer Churn Analysis
-
-Data analysis and machine learning project focused on analyzing
-customer behavior and identifying churn patterns.
-
-**Technologies:** Python · Pandas · NumPy · Scikit-learn
-
-🔗 [View Repository](YOUR_LINK)
-
----
-
-### 🤖 Deep Learning with PyTorch
-
-Hands-on deep learning implementations using PyTorch.
-
-**Technologies:** Python · PyTorch · NumPy
-
-🔗 [View Repository](YOUR_LINK)
-
----
 
 ### 🍔 Bite Buddy
 
