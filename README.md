@@ -11,15 +11,12 @@ hands-on projects.
 
 ---
 
-## 📫 Connect With Me
-
 <p align="center">
   <a href="https://www.linkedin.com/in/vishnukp08">
-    LinkedIn
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
   </a>
-  &nbsp; | &nbsp;
   <a href="kpvishnu814@gmail.com">
-    Email
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
   </a>
 </p>
 
