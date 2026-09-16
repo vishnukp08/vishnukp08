@@ -53,9 +53,11 @@ hands-on projects.
 ### 📊 Data & Machine Learning
 
 <p>
-  <a href="https://pandas.pydata.org/docs/getting_started/intro_tutorials/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=pandas" width="50" alt="Pandas"/>
-  </a>
+ <a href="https://pandas.pydata.org/docs/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"
+       width="50"
+       alt="Pandas"/>
+</a>
   <a href="https://numpy.org/learn/" target="_blank">
     <img src="https://skillicons.dev/icons?i=numpy" width="50" alt="NumPy"/>
   </a>
