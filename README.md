@@ -138,17 +138,6 @@ Python · Django · HTML · CSS · JavaScript · SQLite · Git · GitHub
 
 ---
 
-## 🌱 Currently Learning
-
-- Generative AI
-- Large Language Models
-- Advanced Machine Learning
-- AI-powered applications
-- Data Analytics
-
----
-
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -156,6 +145,10 @@ Python · Django · HTML · CSS · JavaScript · SQLite · Git · GitHub
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishnukp08&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnukp08&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 ---
