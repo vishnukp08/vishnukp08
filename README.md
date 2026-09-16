@@ -56,9 +56,14 @@ hands-on projects.
   <a href="https://pandas.pydata.org/docs/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50" alt="Pandas" title="Pandas"/> 
   </a> 
-  <a href="https://numpy.org/learn/" target="_blank"> 
-    <img src="https://skillicons.dev/icons?i=numpy" width="50" alt="NumPy" title="NumPy"/> 
-  </a> 
+  <a href="https://numpy.org/learn/" target="_blank">
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"
+    width="50"
+    alt="NumPy"
+    title="NumPy"
+  />
+</a>
   <a href="https://scikit-learn.org/stable/getting_started.html" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="50" alt="Scikit-learn" title="Scikit-learn"/> 
   </a> 
