@@ -98,6 +98,14 @@ food ordering and management.
 
 ---
 
+🌐 GoodBuddies — Social Media Platform
+
+A full-stack social media platform developed to enable users to connect, share content, and interact through a web-based application.
+
+🔗 [View Repository]()
+
+---
+
 ## 🌱 Currently Learning
 
 - Generative AI
