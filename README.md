@@ -7,7 +7,7 @@ I enjoy building practical software and data-driven solutions using Python, SQL,
 I'm particularly interested in Data Analytics, Machine Learning, Generative AI, and Backend Development, and I continuously improve my skills by building real-world projects.
 
 ---
-<p align="left"> 
+<p align="center"> 
   <a href="https://github.com/vishnukp08"> 
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> 
   </a> 
