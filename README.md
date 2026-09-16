@@ -30,13 +30,14 @@ I'm particularly interested in Data Analytics, Machine Learning, Generative AI, 
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science graduate
-- 🐍 Python developer
-- 📊 Interested in Data Analytics & Data Science
-- 🤖 Interested in Machine Learning & AI
-- 🗄️ Working with SQL and databases
-- 🌱 Currently exploring Generative AI
-- 🚀 Building practical real-world projects
+🎓 Computer Science graduate
+🐍 Python developer focused on building practical applications
+📊 Interested in Data Analytics & Data Science
+🤖 Exploring Machine Learning, AI & Generative AI
+🗄️ Comfortable working with SQL and relational databases
+🌐 Interested in backend and full-stack web development
+🚀 Learn by building real-world projects
+🌱 Continuously improving my technical and problem-solving skills
 
 ---
 
@@ -127,11 +128,9 @@ I'm particularly interested in Data Analytics, Machine Learning, Generative AI, 
 
 ---
 
-## 🎯 Core Areas
+🎯 Core Areas
 
-`Python` · `Data Analytics` · `Machine Learning`
-· `Deep Learning` · `SQL` · `Data Visualization`
-· `REST APIs` · `Backend Development`
+Python · Data Analytics · Machine Learning · Data Visualization · SQL · Django · REST APIs · Backend Development · Generative AI
 
 ---
 
@@ -139,41 +138,46 @@ I'm particularly interested in Data Analytics, Machine Learning, Generative AI, 
 
 ### 📈 Crypto Market Trend Prediction
 
-A machine learning project developed to analyze cryptocurrency market data and predict market trends. I worked on collecting and preprocessing historical market data, performing exploratory data analysis, creating relevant features, training machine learning models, and evaluating their performance.
+📈 Crypto Market Trend Prediction
+
+Machine learning project focused on analyzing historical cryptocurrency market data and predicting market trends.
 
 What I worked on:
 
-Collected and cleaned historical cryptocurrency market data
-Performed data preprocessing and exploratory data analysis
-Created features for machine learning
-Trained and evaluated machine learning models
-Analyzed model performance and prediction results
-Visualized market trends and model outputs
+🧹 Data collection and preprocessing
+📊 Exploratory Data Analysis
+🔧 Feature engineering
+🤖 Machine learning model development
+📈 Model evaluation
+📉 Market trend visualization
+🔍 Analysis of prediction results
 
-Tools & Technologies:
-Python · Pandas · NumPy · Matplotlib · Scikit-learn · Jupyter Notebook
+Tech Stack
+
+Python Pandas NumPy Matplotlib Scikit-learn Jupyter Notebook
 
 🔗 [View Repository](https://github.com/vishnukp08/Crypto-Market-Tend-Prediction.git)
 
 ---
 
 
-### 🍔 College Canteen Food Ordering System
+### 🍔 College Canteen Food Ordering System — Bite Buddy
 
-A web-based college canteen food ordering system developed to simplify food ordering for students and improve order management for the canteen.
+A web-based college canteen ordering system designed to simplify food ordering for students and improve order management for the canteen.
 
-What I worked on:
+Key Features
 
-Designed and developed the web application
-Implemented user registration and authentication
-Developed food menu and ordering functionality
-Implemented order management features
-Designed database models for users, food items, and orders
-Developed backend APIs and application logic
-Connected the frontend with the backend and database
+👤 User registration and authentication
+🍔 Food menu management
+🛒 Food ordering functionality
+📦 Order management
+🗄️ Database models for users, food items and orders
+🔌 Backend APIs and application logic
+🌐 Frontend-backend integration
 
-Tools & Technologies:
-Python · Django · HTML · CSS · JavaScript · SQLite · Git · GitHub
+Tech Stack
+
+Python Django HTML CSS JavaScript SQLite Git GitHub
 
 🔗 [View Repository](https://github.com/vishnukp08/BiteBuddy-College_Canteen.git)
 
@@ -181,23 +185,35 @@ Python · Django · HTML · CSS · JavaScript · SQLite · Git · GitHub
 
 🌐 GoodBuddies — Social Media Platform
 
-A full-stack social media web application developed to provide users with a platform to create accounts, connect with others, share content, and interact with the community.
+A full-stack social media web application designed to allow users to create accounts, connect with others, share content and interact with the community.
 
-What I worked on:
+Key Features
 
-Developed the web application and user interface
-Implemented user registration and authentication
-Developed user profile functionality
-Implemented social interactions and content sharing
-Worked on backend application logic and database integration
-Connected frontend components with backend functionality
-Tested and debugged application features
+👤 User registration and authentication
+🧑‍💻 User profiles
+🤝 Social interactions
+📝 Content sharing
+⚙️ Backend application logic
+🗄️ Database integration
+🌐 Frontend-backend communication
+🐛 Testing and debugging
 
-Tools & Technologies:
-Python · Django · HTML · CSS · JavaScript · SQLite · Git · GitHub
+Tech Stack
+
+Python Django HTML CSS JavaScript SQLite Git GitHub
 
 🔗 [View Repository](https://github.com/vishnukp08/Goodbuddies-Socialmedia)
 
+---
+
+## 🌱 Currently Learning
+
+🤖 Generative AI
+🧠 Machine Learning
+📊 Advanced Data Analytics
+🐍 Advanced Python
+🌐 Backend Development
+🔌 REST API Development
 ---
 <!--
  ## 📊 GitHub Stats
@@ -217,5 +233,10 @@ Python · Django · HTML · CSS · JavaScript · SQLite · Git · GitHub
 
 ---
 -->
+## 📫 Let's Connect
+
+<p align="left"> <a href="https://github.com/vishnukp08"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> <a href="https://www.linkedin.com/in/vishnukp08/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> </p>
+
+---
 
 ⭐ Feel free to explore my repositories and projects.
