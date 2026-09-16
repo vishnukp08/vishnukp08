@@ -148,15 +148,6 @@ Python · Django · HTML · CSS · JavaScript · SQLite · Git · GitHub
 
 ---
 
-## 💼 Open To
-
-- Python Developer
-- Data Analyst
-- Machine Learning / AI
-- Backend Developer
-- Software Developer
-
----
 
 ## 📊 GitHub Stats
 
