@@ -143,8 +143,9 @@ food ordering and management.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vishnukp08&show_icons=true&theme=dark" />
 </p>
-
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishnukp08&theme=dark" />
+</p>
 
 ---
 
