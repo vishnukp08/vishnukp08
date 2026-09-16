@@ -77,10 +77,19 @@ hands-on projects.
 
 ### 📈 Crypto Market Trend Prediction
 
-Machine learning project focused on analyzing cryptocurrency
-market data and predicting market trends.
+A machine learning project developed to analyze cryptocurrency market data and predict market trends. I worked on collecting and preprocessing historical market data, performing exploratory data analysis, creating relevant features, training machine learning models, and evaluating their performance.
 
-**Technologies:** Python · Pandas · NumPy · Scikit-learn
+What I worked on:
+
+Collected and cleaned historical cryptocurrency market data
+Performed data preprocessing and exploratory data analysis
+Created features for machine learning
+Trained and evaluated machine learning models
+Analyzed model performance and prediction results
+Visualized market trends and model outputs
+
+Tools & Technologies:
+Python · Pandas · NumPy · Matplotlib · Scikit-learn · Jupyter Notebook
 
 🔗 [View Repository](https://github.com/vishnukp08/Crypto-Market-Tend-Prediction.git)
 
@@ -89,10 +98,20 @@ market data and predicting market trends.
 
 ### 🍔 College Canteen Food Ordering System
 
-A college canteen food ordering system designed to simplify
-food ordering and management.
+A web-based college canteen food ordering system developed to simplify food ordering for students and improve order management for the canteen.
 
-**Focus:** Web Development · Backend · Database
+What I worked on:
+
+Designed and developed the web application
+Implemented user registration and authentication
+Developed food menu and ordering functionality
+Implemented order management features
+Designed database models for users, food items, and orders
+Developed backend APIs and application logic
+Connected the frontend with the backend and database
+
+Tools & Technologies:
+Python · Django · HTML · CSS · JavaScript · SQLite · Git · GitHub
 
 🔗 [View Repository](https://github.com/vishnukp08/BiteBuddy-College_Canteen.git)
 
@@ -100,7 +119,20 @@ food ordering and management.
 
 🌐 GoodBuddies — Social Media Platform
 
-A full-stack social media platform developed to enable users to connect, share content, and interact through a web-based application.
+A full-stack social media web application developed to provide users with a platform to create accounts, connect with others, share content, and interact with the community.
+
+What I worked on:
+
+Developed the web application and user interface
+Implemented user registration and authentication
+Developed user profile functionality
+Implemented social interactions and content sharing
+Worked on backend application logic and database integration
+Connected frontend components with backend functionality
+Tested and debugged application features
+
+Tools & Technologies:
+Python · Django · HTML · CSS · JavaScript · SQLite · Git · GitHub
 
 🔗 [View Repository](https://github.com/vishnukp08/Goodbuddies-Socialmedia)
 
