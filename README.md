@@ -2,58 +2,142 @@
 
 ### Computer Science Graduate | Python | Data Analytics | Machine Learning
 
-I enjoy building practical software and machine learning solutions
-using Python, SQL, data analytics, and AI technologies.
+I enjoy building practical software and data-driven solutions using
+Python, SQL, Machine Learning, and AI technologies.
 
-I'm interested in Machine Learning, Data Analytics, Generative AI,
-and backend development, and I'm continuously improving my skills
-through hands-on projects.
+I'm interested in Data Analytics, Machine Learning, Generative AI,
+and backend development, and I continuously improve my skills through
+hands-on projects.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/vishnukp08">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="kpvishnu814@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
-  </a>
-</p>
+---
 
 ## 👨‍💻 About Me
 
 - 🎓 Computer Science graduate
-- 🐍 Interested in Python development and backend technologies
-- 📊 Interested in Data Analytics and Data Science
-- 🤖 Building projects using Machine Learning and AI
-- 🧠 Exploring Generative AI and modern AI applications
+- 🐍 Python developer
+- 📊 Interested in Data Analytics & Data Science
+- 🤖 Interested in Machine Learning & AI
 - 🗄️ Working with SQL and databases
-- 🚀 Interested in building practical, real-world applications
-- 📚 Continuously learning and improving through projects
+- 🌱 Currently exploring Generative AI
+- 🚀 Building practical real-world projects
+
+---
 
 ## 🛠️ Tech Stack
 
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js" />
-</p>
+### Programming
+`Python` · `Java` · `JavaScript`
 
-### Data & Machine Learning
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
+### Data & Analytics
+`Pandas` · `NumPy` · `Matplotlib` · `Seaborn` · `SQL`
 
-`Pandas` · `NumPy` · `Scikit-learn` · `Matplotlib` · `Seaborn`
+### Machine Learning & AI
+`Scikit-learn` · `PyTorch` · `Machine Learning` · `Deep Learning`
 
-### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=django,nodejs,express" />
-</p>
+### Backend & Web
+`Django` · `Node.js` · `Express.js` · `REST APIs`
 
 ### Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
+`MySQL` · `MongoDB`
 
 ### Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+`Git` · `GitHub` · `Jupyter Notebook` · `VS Code`
+
+---
+
+## 🎯 Core Areas
+
+`Python` · `Data Analytics` · `Machine Learning`
+· `Deep Learning` · `SQL` · `Data Visualization`
+· `REST APIs` · `Backend Development`
+
+---
+
+## 🚀 Featured Projects
+
+### 📈 Crypto Market Trend Prediction
+
+Machine learning project focused on analyzing cryptocurrency
+market data and predicting market trends.
+
+**Technologies:** Python · Pandas · NumPy · Scikit-learn
+
+🔗 [View Repository](YOUR_LINK)
+
+---
+
+### 📊 Customer Churn Analysis
+
+Data analysis and machine learning project focused on analyzing
+customer behavior and identifying churn patterns.
+
+**Technologies:** Python · Pandas · NumPy · Scikit-learn
+
+🔗 [View Repository](YOUR_LINK)
+
+---
+
+### 🤖 Deep Learning with PyTorch
+
+Hands-on deep learning implementations using PyTorch.
+
+**Technologies:** Python · PyTorch · NumPy
+
+🔗 [View Repository](YOUR_LINK)
+
+---
+
+### 🍔 Bite Buddy
+
+A college canteen food ordering system designed to simplify
+food ordering and management.
+
+**Focus:** Web Development · Backend · Database
+
+🔗 [View Repository](YOUR_LINK)
+
+---
+
+## 🌱 Currently Learning
+
+- Generative AI
+- Large Language Models
+- Advanced Machine Learning
+- AI-powered applications
+- Data Analytics
+
+---
+
+## 💼 Open To
+
+- Python Developer
+- Data Analyst
+- Machine Learning / AI
+- Backend Developer
+- Software Developer
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark" />
 </p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="YOUR_LINKEDIN">
+    LinkedIn
+  </a>
+  &nbsp; | &nbsp;
+  <a href="YOUR_EMAIL">
+    Email
+  </a>
+</p>
+
+---
+
+⭐ Feel free to explore my repositories and projects.
