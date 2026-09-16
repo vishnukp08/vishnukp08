@@ -70,9 +70,14 @@ hands-on projects.
   <a href="https://matplotlib.org/stable/tutorials/index.html" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="50" alt="Matplotlib" title="Matplotlib"/> 
   </a> 
-  <a href="https://seaborn.pydata.org/tutorial.html" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/seaborn/seaborn-original.svg" width="50" alt="Seaborn" title="Seaborn"/> 
-  </a> 
+  <a href="https://seaborn.pydata.org/tutorial.html" target="_blank">
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/seaborn/seaborn-original.svg"
+    width="50"
+    alt="Seaborn"
+    title="Seaborn"
+  />
+</a>
 </p>
 
 ### ⚙️ Backend
