@@ -11,6 +11,20 @@ hands-on projects.
 
 ---
 
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vishnukp08">
+    LinkedIn
+  </a>
+  &nbsp; | &nbsp;
+  <a href="kpvishnu814@gmail.com">
+    Email
+  </a>
+</p>
+
+---
+
 ## 👨‍💻 About Me
 
 - 🎓 Computer Science graduate
@@ -125,18 +139,6 @@ food ordering and management.
 </p>
 
 ---
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="YOUR_LINKEDIN">
-    LinkedIn
-  </a>
-  &nbsp; | &nbsp;
-  <a href="YOUR_EMAIL">
-    Email
-  </a>
-</p>
 
 ---
 
