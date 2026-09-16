@@ -241,9 +241,10 @@ Python Django HTML CSS JavaScript SQLite Git GitHub
 ---
 -->
 
-## 📊 GitHub Activity
+<!--## 📊 GitHub Activity
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vishnukp08&show_icons=true&hide_border=true&cache_seconds=86400" height="170" alt="Vishnu's GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnukp08&layout=compact&hide_border=true&cache_seconds=86400" height="170" alt="Top Languages" /> </p>
 
 ---
+-->
 ⭐ Feel free to explore my repositories and projects.
