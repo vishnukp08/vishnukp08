@@ -38,7 +38,7 @@ hands-on projects.
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js" />
+  <img src="https://skillicons.dev/icons?i=python,java,js" />
 </p>
 
 ### Data & Machine Learning
