@@ -207,13 +207,13 @@ Python Django HTML CSS JavaScript SQLite Git GitHub
 ---
 
 ## 🌱 Currently Learning
+🤖 Generative AI
+🧠 Machine Learning
+📊 Advanced Data Analytics
+🐍 Advanced Python
+🌐 Backend Development
+🔌 REST API Development
 
-  🤖 Generative AI
-  🧠 Machine Learning
-  📊 Advanced Data Analytics
-  🐍 Advanced Python
-  🌐 Backend Development
-  🔌 REST API Development
 ---
 <!--
  ## 📊 GitHub Stats
