@@ -36,23 +36,32 @@ hands-on projects.
 
 ## 🛠️ Tech Stack
 
-### Programming
-`Python` · `Java` · `JavaScript`
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js" />
+</p>
 
-### Data & Analytics
-`Pandas` · `NumPy` · `Matplotlib` · `Seaborn` · `SQL`
+### Data & Machine Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
 
-### Machine Learning & AI
-`Scikit-learn` · `PyTorch` · `Machine Learning` · `Deep Learning`
+`Pandas` · `NumPy` · `Scikit-learn` · `Matplotlib` · `Seaborn`
 
-### Backend & Web
-`Django` · `Node.js` · `Express.js` · `REST APIs`
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=django,nodejs,express" />
+</p>
 
 ### Databases
-`MySQL` · `MongoDB`
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
 
 ### Tools
-`Git` · `GitHub` · `Jupyter Notebook` · `VS Code`
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
