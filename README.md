@@ -138,14 +138,16 @@ Python · Django · HTML · CSS · JavaScript · SQLite · Git · GitHub
 
 ---
 
-## 📊 GitHub Stats
+ ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishnukp08&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vishnukp08&show_icons=true&theme=dark" alt="Vishnu's GitHub Stats" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishnukp08&theme=dark" />
+  <img src="https://streak-stats.demolab.com?user=vishnukp08&theme=dark" alt="Vishnu's GitHub Streak" />
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnukp08&layout=compact&theme=dark" alt="Top Languages" />
