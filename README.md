@@ -36,32 +36,79 @@ hands-on projects.
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
+
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js" />
+  <a href="https://www.python.org/about/gettingstarted/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" width="50" alt="Python"/>
+  </a>
+  <a href="https://dev.java/learn/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=java" width="50" alt="Java"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js" width="50" alt="JavaScript"/>
+  </a>
 </p>
 
-### Data & Machine Learning
+### 📊 Data & Machine Learning
+
 <p>
-  <img src="https://skillicons.dev/icons?i=python" />
+  <a href="https://pandas.pydata.org/docs/getting_started/intro_tutorials/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=pandas" width="50" alt="Pandas"/>
+  </a>
+  <a href="https://numpy.org/learn/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=numpy" width="50" alt="NumPy"/>
+  </a>
+  <a href="https://scikit-learn.org/stable/getting_started.html" target="_blank">
+    <img src="https://skillicons.dev/icons?i=sklearn" width="50" alt="Scikit-learn"/>
+  </a>
+  <a href="https://matplotlib.org/stable/tutorials/index.html" target="_blank">
+    <img src="https://skillicons.dev/icons?i=matplotlib" width="50" alt="Matplotlib"/>
+  </a>
+  <a href="https://seaborn.pydata.org/tutorial.html" target="_blank">
+    <img src="https://skillicons.dev/icons?i=seaborn" width="50" alt="Seaborn"/>
+  </a>
 </p>
 
-`Pandas` · `NumPy` · `Scikit-learn` · `Matplotlib` · `Seaborn`
+### ⚙️ Backend
 
-### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=django,nodejs,express" />
+  <a href="https://docs.djangoproject.com/en/stable/intro/tutorial01/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=django" width="50" alt="Django"/>
+  </a>
+  <a href="https://nodejs.org/en/learn/getting-started/introduction-to-nodejs" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nodejs" width="50" alt="Node.js"/>
+  </a>
+  <a href="https://expressjs.com/en/starter/installing.html" target="_blank">
+    <img src="https://skillicons.dev/icons?i=express" width="50" alt="Express.js"/>
+  </a>
 </p>
 
-### Databases
+### 🗄️ Databases
+
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <a href="https://dev.mysql.com/doc/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql" width="50" alt="MySQL"/>
+  </a>
+  <a href="https://www.mongodb.com/docs/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mongodb" width="50" alt="MongoDB"/>
+  </a>
 </p>
 
-### Tools
+### 🧰 Tools
+
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <a href="https://git-scm.com/doc" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" width="50" alt="Git"/>
+  </a>
+  <a href="https://docs.github.com/en/get-started" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub"/>
+  </a>
+  <a href="https://code.visualstudio.com/docs" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vscode" width="50" alt="VS Code"/>
+  </a>
 </p>
+
 
 ---
 
