@@ -246,4 +246,4 @@ Python Django HTML CSS JavaScript SQLite Git GitHub
 
 ---
 -->
-## ⭐ Feel free to explore my repositories and projects.
+### ⭐ Feel free to explore my repositories and projects.
