@@ -216,7 +216,7 @@ Python Django HTML CSS JavaScript SQLite Git GitHub
 🔌 REST API Development
 
 ---
-<!--
+
  ## 📊 GitHub Stats
 
 <p align="center">
