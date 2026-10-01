@@ -139,8 +139,6 @@ Python · Data Analytics · Machine Learning · Data Visualization · SQL · Dja
 
 ### 📈 Crypto Market Trend Prediction
 
-📈 Crypto Market Trend Prediction
-
 Machine learning project focused on analyzing historical cryptocurrency market data and predicting market trends.
 
 What I worked on:
@@ -184,7 +182,7 @@ Python Django HTML CSS JavaScript SQLite Git GitHub
 
 ---
 
-🌐 GoodBuddies — Social Media Platform
+### 🌐 GoodBuddies — Social Media Platform
 
 A full-stack social media web application designed to allow users to create accounts, connect with others, share content and interact with the community.
 
